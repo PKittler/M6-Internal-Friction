@@ -1,6 +1,6 @@
 # M6 Innere Reibung / Internal Friction
 
-[Deutsche Version](# Beschreibung) | [English version](# Description)
+[Deutsche Version](#beschreibung) | [English version](#description)
 
 ## Beschreibung
 
