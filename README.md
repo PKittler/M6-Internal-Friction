@@ -1,8 +1,8 @@
 # M6 Innere Reibung / Internal Friction
 
-[Deutsche Version](#beschreibung) | [English version](#description)
+[Deutsche Version](#deutsche-version) | [English version](#english-version)
 
-## Beschreibung
+## Deutsche Version
 
-## Description
+## English version
 Generates results for experiment M6 Internal Friction (Innere Reibung)
